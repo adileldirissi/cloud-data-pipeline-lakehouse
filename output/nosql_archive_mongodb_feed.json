@@ -1,0 +1,67 @@
+[
+  {
+    "tx_id": "TX-9001",
+    "timestamp": "2025-02-01T10:15:30Z",
+    "merchant_id": "M-101",
+    "merchant_name": "Atlas Retail",
+    "amount": 450.5,
+    "currency": "MAD",
+    "status": "COMPLETED",
+    "payload": {
+      "device": "POS",
+      "ip": "196.12.3.4"
+    }
+  },
+  {
+    "tx_id": "TX-9002",
+    "timestamp": "2025-02-01T10:16:12Z",
+    "merchant_id": "M-102",
+    "merchant_name": "Medina Market",
+    "amount": 120.0,
+    "currency": "MAD",
+    "status": "COMPLETED",
+    "payload": {
+      "device": "WEB",
+      "ip": "105.158.44.1"
+    }
+  },
+  {
+    "tx_id": "TX-9003",
+    "timestamp": "2025-02-01T10:18:05Z",
+    "merchant_id": "M-101",
+    "merchant_name": "Atlas Retail",
+    "amount": 85.0,
+    "currency": "MAD",
+    "status": "COMPLETED",
+    "payload": {
+      "device": "POS",
+      "ip": "196.12.3.4"
+    }
+  },
+  {
+    "tx_id": "TX-9004",
+    "timestamp": "2025-02-01T10:22:00Z",
+    "merchant_id": "M-103",
+    "merchant_name": "Sahara Express",
+    "amount": -15.0,
+    "currency": "MAD",
+    "status": "REFUND",
+    "payload": {
+      "device": "API",
+      "gateway": "Stripe"
+    }
+  },
+  {
+    "tx_id": "TX-9005",
+    "timestamp": "2025-02-01T11:05:40Z",
+    "merchant_id": "M-101",
+    "merchant_name": "Atlas Retail",
+    "amount": 1250.0,
+    "currency": "MAD",
+    "status": "COMPLETED",
+    "payload": {
+      "device": "POS",
+      "ip": "196.12.3.4"
+    }
+  }
+]

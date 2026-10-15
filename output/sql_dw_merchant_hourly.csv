@@ -1,0 +1,5 @@
+merchant_id,merchant_name,hour,tx_count,total_volume,refund_count
+M-101,Atlas Retail,2025-02-01T10,2,535.5,0
+M-102,Medina Market,2025-02-01T10,1,120.0,0
+M-103,Sahara Express,2025-02-01T10,1,-15.0,1
+M-101,Atlas Retail,2025-02-01T11,1,1250.0,0
