@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Unit tests and Data Quality assertions for Data Reply pipeline
+Unit tests and Data Quality assertions for Transactional Lakehouse Pipeline
 """
 
 import unittest

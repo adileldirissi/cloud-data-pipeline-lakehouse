@@ -5,7 +5,7 @@ A robust, cloud-ready data engineering pipeline designed to ingest, validate, an
 ---
 
 ## 🎯 Business Context & Alignment
-Built specifically to match enterprise data engineering consulting standards (e.g. Data Reply / Reply Group):
+Built to reflect modern enterprise data engineering and cloud lakehouse standards:
 - **Batch & Stream Processing**: Cleans, deduplicates, and enriches raw transactions into partitioned analytical models.
 - **Polyglot Persistence**: Bridges relational data warehouses (PostgreSQL / SQL) for BI reporting with document-oriented NoSQL stores (MongoDB) for semi-structured payload archiving.
 - **Data Quality & Reliability**: Implements programmatic data quality gates, rejecting corrupt records before downstream consumption.
